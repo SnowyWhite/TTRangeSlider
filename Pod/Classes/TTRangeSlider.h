@@ -10,6 +10,10 @@
 IB_DESIGNABLE
 @interface TTRangeSlider : UIControl <UIGestureRecognizerDelegate>
 
+@property (nonatomic, assign) float handleBorderWidth;
+@property (nonatomic, strong) UIColor *handleBorderColor;
+
+
 @property (nonatomic, weak) IBOutlet id<TTRangeSliderDelegate> delegate;
 
 /**
@@ -115,5 +119,6 @@ IB_DESIGNABLE
  *Set the slider line height (default 1.0)
  */
 @property (nonatomic, assign) CGFloat lineHeight;
+@property (nonatomic, assign) CGFloat lineHeightBetweenHandles;
 
 @end
