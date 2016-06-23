@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Tom Thorpe" => "code@tomthorpe.co.uk" }
-  s.source           = { :git => "https://github.com/TomThorpe/TTRangeSlider.git", :tag => 'v1.0.4'  }
+  s.source           = { :git => "https://github.com/SnowyWhite/TTRangeSlider.git", :tag => 'v1.0.5'  }
   s.platform     = :ios, '7.0'
   s.requires_arc = true
 
