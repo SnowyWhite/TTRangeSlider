@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/cocoapods/l/TTRangeSlider.svg?style=flat)](http://cocoadocs.org/docsets/TTRangeSlider)
 [![Platform](https://img.shields.io/cocoapods/p/TTRangeSlider.svg?style=flat)](http://cocoadocs.org/docsets/TTRangeSlider)
 
-This is fork of original library.
+This is fork of [original library](https://github.com/TomThorpe/TTRangeSlider).
 
 A slider, similar in style to UISlider, but which allows you to pick a minimum and maximum range.
 
